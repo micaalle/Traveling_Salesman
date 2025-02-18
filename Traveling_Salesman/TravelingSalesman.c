@@ -68,7 +68,7 @@ void APPROX_TSP_TOUR(int G[MAX_V][MAX_V], int root) {
     // prims algorithm 
     MST_PRIM(G, root, parent);
 
-    // find the preorder traversal via dps
+    // find the preorder traversal via DFS
     preorderDFS(root, parent, visited, H, &index);
 
     // hamiltonian cycle print
