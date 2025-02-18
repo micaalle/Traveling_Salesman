@@ -7,5 +7,5 @@ Features
  - TSP Approximation: Creates a Hamiltonian cycle using DFS traversal of the MST.
 
 Based on the pseudoCode found in "Introduction To Algorithms Third Edition" 
-- chapter 35 for TSP
-- chapter 23 for Prim's algorithms
+- Chapter 35 for TSP
+- Chapter 23 for Prim's algorithms
