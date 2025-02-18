@@ -6,6 +6,6 @@ Features
  - Prim’s Algorithm: Finds the Minimum Spanning Tree.
  - TSP Approximation: Creates a Hamiltonian cycle using DFS traversal of the MST.
 
-Based on the pseudoCode found in the chapter 35 of "Indtroduction To Algorithms Third Edition" 
+Based on the pseudoCode found in "Introduction To Algorithms Third Edition" 
 - chapter 35 for TSP
 - chapter 23 for Prim's algorithms
